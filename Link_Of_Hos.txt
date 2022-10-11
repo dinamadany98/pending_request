@@ -1,9 +1,0 @@
-link of hosting project :
-http://tasktest.great-site.net/
-
-
-Email and Pasword for admin 
-
-Email:    admain@gmail.com
-
-password :123
